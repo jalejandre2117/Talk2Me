@@ -1,0 +1,6 @@
+framework module Pods_Talk2MeTests {
+  umbrella header "Pods-Talk2MeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
